@@ -7,7 +7,7 @@ Browse, preview, and download **1400+ Bangla fonts** — Unicode ও ANSI উভ
 
 ## 🌐 Live Demo
 
-> **https://mehdiakram.github.io/bangla-fonts/**
+> **https://royal-technologies.github.io/bangla-fonts/**
 
 ---
 
